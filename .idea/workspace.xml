@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d08b37b0-3642-4906-8aee-160a6abbebde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/vehicule/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vehicule/Couleur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vehicule/TypeDeplacement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vehicule/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vehicule/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP_3_java/com/vehicule/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_3_java/com/vehicule/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TP_3_java/com/vehicule/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TP_3_java/com/vehicule/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +32,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/vehicule/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            <state relative-caret-position="204">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -64,11 +62,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/vehicule/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="663">
+              <caret line="39" column="91" selection-start-line="39" selection-start-column="91" selection-end-line="39" selection-end-column="91" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TypeDeplacement.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TypeDeplacement.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/vehicule/TypeDeplacement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -161,7 +173,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/vehicule/Vehicule.java" />
-        <option value="$PROJECT_DIR$/src/com/vehicule/Main.java" />
         <option value="$PROJECT_DIR$/src/com/vehicule/AbstractVehicule.java" />
         <option value="$PROJECT_DIR$/src/com/vehicule/Position.java" />
         <option value="$PROJECT_DIR$/src/com/vehicule/Deplacement.java" />
@@ -169,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/com/vehicule/Couleur.java" />
         <option value="$PROJECT_DIR$/src/com/vehicule/Marque.java" />
         <option value="$PROJECT_DIR$/src/com/vehicule/Bike.java" />
+        <option value="$PROJECT_DIR$/src/com/vehicule/Main.java" />
         <option value="$PROJECT_DIR$/src/com/vehicule/Car.java" />
       </list>
     </option>
@@ -264,6 +276,28 @@
       <option name="presentableId" value="Default" />
       <updated>1523450229741</updated>
     </task>
+    <task id="LOCAL-00001" summary="modification de Bike et creation de Car">
+      <created>1523455915833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523455915833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="implementation get set string de car">
+      <created>1523456516401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523456516401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="code car.tostring et son utilisation dans le main modifie">
+      <created>1523457040491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523457040491</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -301,6 +335,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modification de Bike et creation de Car" />
+    <MESSAGE value="implementation get set string de car" />
+    <MESSAGE value="code car.tostring et son utilisation dans le main modifie" />
+    <option name="LAST_COMMIT_MESSAGE" value="code car.tostring et son utilisation dans le main modifie" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/vehicule/AbstractVehicule.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -317,13 +357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vehicule/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -375,13 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vehicule/TypeDeplacement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vehicule/Couleur.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -411,8 +437,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vehicule/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="663">
+          <caret line="39" column="91" selection-start-line="39" selection-start-column="91" selection-end-line="39" selection-end-column="91" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vehicule/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vehicule/TypeDeplacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
