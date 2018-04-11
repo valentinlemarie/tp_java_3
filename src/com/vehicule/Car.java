@@ -5,6 +5,12 @@ public class Car {
     float essense;
     float co2;
 
+    Car(float volume , float essense , float co2){
+        this.volume=volume;
+        this.essense=essense;
+        this.co2=co2;
+    }
+
     public void setCo2(float co2) {
         this.co2 = co2;
     }
@@ -31,6 +37,6 @@ public class Car {
 
     @Override
     public String toString() {
-        return "voiture : \n volume :"+getVolume()+"\n essence :"+getEssense()+"\nco2 :"+getCo2();
+        return "\nVoiture : \nvolume  :"+getVolume()+"\nessence :"+getEssense()+"\nco2     :"+getCo2();
     }
 }
